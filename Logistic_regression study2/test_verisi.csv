@@ -1,0 +1,6 @@
+Customer id,Age,Gender,Location,Email Opened,Email Clicked,Product page visit,Discount offered,Purchased
+16,60,1,Sydney,1,0,0,0,0
+17,53,1,Sydney,1,1,1,0,1
+18,23,0,Perth,1,0,1,0,1
+19,62,1,Perth,0,1,2,1,1
+20,41,0,Brisbane,0,1,5,1,0
